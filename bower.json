@@ -1,7 +1,7 @@
 {
   "name": "angularindexeddb",
   "description": "Simple integration angularJs-IndexedDB",
-  "main": "index.js",
+  "main": ["./dist/angularIndexedDB.min.js"],
   "authors": [
     "Iago Silva Lima"
   ],

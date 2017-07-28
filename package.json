@@ -2,7 +2,7 @@
   "name": "angularindexeddb",
   "version": "1.0.0",
   "description": "Simple integration angularJs-IndexedDB",
-  "main": ["./dist/angularIndexedDB.min.js"],
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "gulp" : "gulp"
