@@ -1,0 +1,22 @@
+{
+  "name": "angularindexeddb",
+  "description": "Simple integration angularJs-IndexedDB",
+  "main": "index.js",
+  "authors": [
+    "Iago Silva Lima"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "storage",
+    "indexeddb"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

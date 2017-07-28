@@ -1,0 +1,23 @@
+{
+  "name": "angularindexeddb",
+  "version": "1.0.0",
+  "description": "Simple integration angularJs-IndexedDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp" : "gulp"
+  },
+  "keywords": [
+    "angular",
+    "storage",
+    "indexeddb"
+  ],
+  "author": "Iago Silva Lima",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
